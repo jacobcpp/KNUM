@@ -1,5 +1,7 @@
 ## 🧩 ŠABLONA – Regula Falsi
 
+Patří mezi metody pro hledání kořenů funkcí (f(x)=0) a je příbuzná metodě bisekce, ale místo středu intervalu používá lineární aproximaci průsečíku s osou x.
+
 ```python
 import math
 
