@@ -1,4 +1,4 @@
-## 🧩 ŠABLONA – Newtonova metoda
+## 🧩 ŠABLONA – Newtonova metoda(metoda tecen)
 
 ```python
 import math
