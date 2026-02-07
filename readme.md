@@ -1,4 +1,5 @@
 ## 1️⃣ Řešení nelineárních rovnic ( f(x)=0 )
+Zdroj: [https://physics.ujep.cz/~jskvor/NME/]
 
 ### 🔹 Metoda půlení intervalu (bisection)
 
